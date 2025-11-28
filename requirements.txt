@@ -6,7 +6,7 @@ openai==1.7.0                      # OpenAI GPT API
 requests==2.32.0                  # HTTP requests for posting & APIs
 python-dotenv==1.1.0              # Load .env variables locally
 schedule==1.2.0                   # Cron-like scheduling in Python
-Pillow==10.2.0                     # Image processing (optional for AI media)
+Pillow==9.5.0                     # Image processing (optional for AI media)
 facebook-business==13.0.0
 google-api-python-client==2.100.0
 TikTok-Api==0.14.2
